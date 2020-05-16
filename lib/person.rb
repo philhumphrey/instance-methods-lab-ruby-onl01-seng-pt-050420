@@ -9,5 +9,5 @@ def walk
 end
 end
 
-fido = Dog.new
+ 
   
